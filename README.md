@@ -3,8 +3,7 @@
 
 Use gravitational constants to compare N planets as data points for similiarty matrix to find how strongly two planets are related in terms of orbit, volume, and density. 
 
-Prints out average similiarty score matrix.
-
+Prints out average similiarty score matrix as shown below.
 
 [ [ 0, 1424345, 9912672404, 2212, 145053, 1152, 124166, 507, 3051],
 
@@ -23,4 +22,5 @@ Prints out average similiarty score matrix.
 [ 507, 1424345, 9912672404, 2632, 145052, 1050, 124165, 0, 3464,  ]
 
 [ 3051, 1424347, 9912672404, 839, 145092, 3591, 124211, 3464, 0,  ]]
+
 Average: 122399716
